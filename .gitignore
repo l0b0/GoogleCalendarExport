@@ -1,4 +1,5 @@
 build/
+client_secret.json
 .coverage
 *.egg-info/
 *.pyc
