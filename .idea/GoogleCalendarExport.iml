@@ -4,12 +4,12 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/GoogleCalendarExport.egg-info" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
       <excludeFolder url="file://$MODULE_DIR$/make-includes" />
-      <excludeFolder url="file://$MODULE_DIR$/GoogleCalendarExport.egg-info" />
       <excludeFolder url="file://$MODULE_DIR$/virtualenv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6.2 virtualenv at ~/dev/GoogleCalendarExport/virtualenv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
